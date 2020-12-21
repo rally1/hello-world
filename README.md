@@ -1,3 +1,3 @@
 # hello-world
 Test Github
-Generyting hello-world ;-) for fun only
+Generyting hello-world ;-) for fun only. Nice ;-)
